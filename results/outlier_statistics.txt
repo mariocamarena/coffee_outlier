@@ -1,0 +1,40 @@
+OUTLIER DETECTION STATISTICS
+======================================================================
+
+Shot 13 Outlier Score: 9.5227
+
+COMPARISON TO OTHER SHOTS:
+──────────────────────────────────────────────────────────────────────
+  • 21.4% higher than 2nd highest (Shot 1: 7.8459)
+  • 124.0% higher than median (4.2518)
+  • 2.19 standard deviations above mean (4.7257)
+
+SCORE DISTRIBUTION:
+──────────────────────────────────────────────────────────────────────
+  • Mean Score:   4.7257
+  • Median Score: 4.2518
+  • Std Dev:      2.1923
+  • Min Score:    2.1105 (Shot 3)
+  • Max Score:    9.5227 (Shot 13)
+
+ALL SCORES (SORTED):
+──────────────────────────────────────────────────────────────────────
+  Shot 13: 9.5227 <-- OUTLIER
+  Shot  1: 7.8459
+  Shot  4: 6.6355
+  Shot  9: 5.6344
+  Shot  5: 4.8358
+  Shot 11: 4.6828
+  Shot  2: 4.2518
+  Shot  6: 3.8203
+  Shot  7: 3.4549
+  Shot  8: 3.2885
+  Shot 12: 3.1622
+  Shot 10: 2.1893
+  Shot  3: 2.1105
+
+──────────────────────────────────────────────────────────────────────
+ALGORITHM: L2 Norm of Z-scores across 39 extracted features
+CONCLUSION: Shot 13 is clearly anomalous
+
+GENERATED: /home/user/coffee_outlier/results
